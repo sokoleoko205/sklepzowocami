@@ -1,0 +1,44 @@
+body{
+  background-color: #C7E7CA;
+  margin: 0;
+  padding: 0;
+}
+nav{
+  background-color: #025F0F;
+  height: 100px;
+}
+nav h1 {
+  color: white;
+  text-align: center;
+  margin-top: auto;
+  width: auto;
+}
+
+
+ol{
+  color: white;
+  position:absolute;
+  right: 10px;
+}
+a{
+  text-decoration: none;
+  color: gray;
+}
+
+div.produkt{
+  border: #025F0F 1px solid;
+  height: 400px;
+  width: 300px;
+  display: inline-block;
+  margin: 40px;
+}
+div#kontener{
+  background-color: #025F0F;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+h3#cena{
+  text-align: right;
+
+}
